@@ -12,7 +12,7 @@ public class jump : MonoBehaviour {
     // Update is called once per frame
     void Update () {
         Vector3 vel = rb.velocity;
-        vel.x = 7;
+        vel.x = 8;
         rb.velocity = vel;
         if (Physics.Raycast(transform.position, Vector3.down, GetComponent<BoxCollider>().size.y / 2 + 0.4f))
         { 
@@ -25,7 +25,7 @@ public class jump : MonoBehaviour {
             }
         }
         else {  
-            transform.Rotate(Vector3.back *5f);
+        
         }
     }
 }
