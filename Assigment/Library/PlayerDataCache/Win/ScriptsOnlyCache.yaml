@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Pause
     - jump
     - killplayer
     - sceneloader
@@ -56,25 +57,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11884}
     - Class: 114
-      Script: {instanceID: 12246}
+      Script: {instanceID: 12248}
     - Class: 114
-      Script: {instanceID: 12466}
+      Script: {instanceID: 12468}
     - Class: 114
-      Script: {instanceID: 12480}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 12542}
+      Script: {instanceID: 12544}
     - Class: 114
-      Script: {instanceID: 12664}
+      Script: {instanceID: 12666}
     - Class: 114
-      Script: {instanceID: 12726}
+      Script: {instanceID: 12728}
     - Class: 114
-      Script: {instanceID: 12876}
+      Script: {instanceID: 12878}
     - Class: 114
-      Script: {instanceID: 12980}
+      Script: {instanceID: 12982}
     - Class: 114
-      Script: {instanceID: 13078}
+      Script: {instanceID: 13080}
     - Class: 114
-      Script: {instanceID: 13108}
+      Script: {instanceID: 13110}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -127,11 +128,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11888}
     - Class: 114
-      Script: {instanceID: 12726}
+      Script: {instanceID: 12044}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 12728}
     - Class: 114
-      Script: {instanceID: 13078}
+      Script: {instanceID: 13032}
+    - Class: 114
+      Script: {instanceID: 13080}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 134
@@ -347,6 +350,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: ffb88a5b69986916e8af2babb9814e00
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Pause
   - hash:
       serializedVersion: 2
       Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
@@ -597,4 +606,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Desktop/Unity group game/Assigment JonThom.exe
+  playerPath: C:/Users/USER/Downloads/Build/Assigment JonThom.exe
