@@ -49,33 +49,33 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11280}
+      Script: {instanceID: 11278}
     - Class: 114
-      Script: {instanceID: 11478}
+      Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11864}
+      Script: {instanceID: 11862}
     - Class: 114
-      Script: {instanceID: 11890}
+      Script: {instanceID: 11888}
     - Class: 114
-      Script: {instanceID: 12254}
+      Script: {instanceID: 12252}
     - Class: 114
-      Script: {instanceID: 12476}
+      Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12490}
+      Script: {instanceID: 12488}
     - Class: 114
-      Script: {instanceID: 12552}
+      Script: {instanceID: 12550}
     - Class: 114
-      Script: {instanceID: 12674}
+      Script: {instanceID: 12672}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12734}
     - Class: 114
-      Script: {instanceID: 12886}
+      Script: {instanceID: 12884}
     - Class: 114
-      Script: {instanceID: 12990}
+      Script: {instanceID: 12988}
     - Class: 114
-      Script: {instanceID: 13088}
+      Script: {instanceID: 13086}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 13116}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -126,15 +126,15 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11864}
+      Script: {instanceID: 11862}
     - Class: 114
-      Script: {instanceID: 11894}
+      Script: {instanceID: 11892}
     - Class: 114
-      Script: {instanceID: 12050}
+      Script: {instanceID: 12048}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13038}
     - Class: 114
-      Script: {instanceID: 13088}
+      Script: {instanceID: 13086}
     - Class: 114
       Script: {instanceID: 16946}
     - Class: 115
@@ -610,4 +610,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/USER/Downloads/Build/UnityGame/Assigment JonThom.exe
+  playerPath: C:/Users/USER/Downloads/Build/Unity Shut Down/Assigment JonThom.exe
