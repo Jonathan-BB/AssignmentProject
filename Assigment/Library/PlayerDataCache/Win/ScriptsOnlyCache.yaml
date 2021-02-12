@@ -117,12 +117,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 11274}
     - Class: 114
       Script: {instanceID: 11858}
     - Class: 114
@@ -130,11 +132,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12044}
     - Class: 114
-      Script: {instanceID: 12728}
-    - Class: 114
       Script: {instanceID: 13032}
     - Class: 114
       Script: {instanceID: 13080}
+    - Class: 114
+      Script: {instanceID: 16854}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 134
@@ -146,10 +148,6 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -606,4 +604,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/USER/Downloads/Build/Assigment JonThom.exe
+  playerPath: C:/Users/USER/Downloads/Build/ShutDownGame/Assigment JonThom.exe
